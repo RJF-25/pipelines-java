@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Glenville-Corp/Creating-My-First-Pipeline/_apis/build/status/RJF-25.pipelines-java?branchName=master)](https://dev.azure.com/Glenville-Corp/Creating-My-First-Pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
